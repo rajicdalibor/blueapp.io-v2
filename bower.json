@@ -17,7 +17,7 @@
   ],
   "license": "Copyright 2017 Vensi, Inc.",
   "homepage": "https://github.com/blueappio/blueapp.io",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
